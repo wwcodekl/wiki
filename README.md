@@ -1,4 +1,5 @@
-![WomenWhoCodeKL logo](./images/logo.png)
+<img src="./images/logo.png" width="350" title="WomenWhoCodeKL logo" alt="WomenWhoCodeKL logo">
+
 # FAQ
 
 ## Getting involved:
