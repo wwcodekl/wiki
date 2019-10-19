@@ -1,16 +1,16 @@
 <img src="./images/logo.png" width="350" title="WomenWhoCodeKL logo" alt="WomenWhoCodeKL logo">
 
-# FAQ
+# Wiki site
 
-## Getting involved:
-- 👋 Say hi to us on Slack: [bit.ly/wwcodekl-slack](bit.ly/wwcodekl-slack)
-- 🎤 Want to volunteer/speak/sponsor/suggest topics? Fill in our form: [bit.ly/wwcodekl-form](bit.ly/wwcodekl-form)
+## Getting involved
+- Slack invite: [bit.ly/wwcodekl-slack](bit.ly/wwcodekl-slack)
+- Form for volunteers/speakers/sponsors/suggest topics: [bit.ly/wwcodekl-form](bit.ly/wwcodekl-form)
 
-## Follow us for updates!
+## Event updates
 - Peatix: https://wwcodekl.peatix.com/ (RSVP here)
 - Facebook: https://facebook.com/wwcodekl
 - Meetup: https://www.meetup.com/wwcodekl/
 - Twitter: https://twitter.com/WomenWhoCodeKL
 
-# Meetup checklist
+## Meetup checklist
 WIP
