@@ -1,4 +1,4 @@
-# Welcome to WomenWhoCode Kuala Lumpur
+# WomenWhoCode Kuala Lumpur FAQ
 
 ## Getting involved:
 - Join our *Slack* and say hi: [bit.ly/wwcodekl-slack](bit.ly/wwcodekl-slack)
