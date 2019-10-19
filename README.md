@@ -1,7 +1,7 @@
 # WomenWhoCode Kuala Lumpur FAQ
 
 ## Getting involved:
-- Join our *Slack* and say hi: [bit.ly/wwcodekl-slack](bit.ly/wwcodekl-slack)
+- Join our **Slack** and say hi: [bit.ly/wwcodekl-slack](bit.ly/wwcodekl-slack)
 - Want to volunteer/speak/sponsor/suggest topics? Fill in our form: [bit.ly/wwcodekl-form](bit.ly/wwcodekl-form)
 
 ## Follow us for updates!
