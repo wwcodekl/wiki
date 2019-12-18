@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WomenWhoCodeKL</title>
+    <base target="_blank">
+    <style>
+        :root {
+            --c-teal: teal;
+            --c-dark-teal: rgb(4, 80, 80);
+            --c-white: rgb(242, 250, 250);
+        }
+        body {
+            background: var(--c-white);
+            margin: 0;
+            font-family: "Lucida Grande", "Tahoma", "Verdana", "Arial", sans-serif;
+            color: var(--c-teal);
+        }
+        .header {
+            text-align: center;
+            background-color: var(--c-teal);
+        }
+        .logo {
+            max-width: 250px;
+        }
+        .section {
+            padding: 10px 20px;
+            justify-content: center;
+        }
+        @media only screen and (min-width: 660px) {
+            .section {
+                display: grid;
+                grid-template-columns: 1fr 2fr;
+            }
+            .section > .title {
+                padding: 10px 30px;
+            }
+        }
+        .section > .title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin: 0;
+        }
+        .link {
+            background:var(--c-teal);
+            color:var(--c-white);
+            text-decoration: none;
+            padding: 20px;
+            text-transform: uppercase;
+            width: min-content;
+            letter-spacing: 2px;
+        }
+        .link:hover, .link:active {
+            background-color: var(--c-dark-teal);
+        }
+        .link-group {
+            margin: 35px auto;
+        }
+        .link-group > a {
+            margin-right: 10px;
+        }
+        .involvement-item {
+            display: grid;
+            margin: 15px auto 50px;
+        }
+        .faq > li {
+            font-weight: bold;
+        }
+        li {
+            line-height: 2;
+        }
+    </style>
+</head>
+<body>
+
+    
+    <div class="header">
+        <img src="images/logo_white.png" class="logo">
+    </div>
+
+    <div class="section">
+        <p class="title">About us</p>
+        <div>
+            <p>
+                <strong><a href="https://www.womenwhocode.com/about">Women Who Code</a></strong>'s mission is to inspire women to excel in technology careers.
+            </p>
+            Among our commitments:
+            <ul>
+                <li>Empower with skills needed for professional achievement</li>
+                <li>Educate companies to better promote, retain and hire talented women</li>
+                <li>Build a global community where networking and mentorship is valued</li>
+                <li>Develop role models and support this generation of engineers</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <p class="title">Get involved</p>
+        <div class="involvements-list">
+            
+            <div class="involvement-item">
+                <div>Interested to <strong>volunteer</strong> and see what it’s like to organize community events?</div>
+                <ol>
+                    <li>Join our slack group</li>
+                    <li>Enter the channel #volunteers</li>
+                    <li>Introduce yourself</li>
+                </ol>
+                <a class="link" href="https://bit.ly/wwcodekl-slack">volunteer</a>
+            </div>
+
+            <div class="involvement-item">
+                <div>Want to <strong>sponsor</strong> a venue or provide food and refreshments for our events?</div>
+                <ul>
+                    <li>Drop us an email</li>
+                </ul>
+                <a class="link" href="mailto:kualalumpur@womenwhocode.com?subject=Sponsoring Women Who Code KL">sponsor</a>
+            </div>
+
+            <div class="involvement-item">
+                <div>Have a topic or a cool side project to share? Want to practise your presentation skills?</div>
+                <ul>
+                    <li>Drop us an email with your <strong>title</strong> and <strong>description</strong></li>
+                </ul>
+                <a class="link" href="mailto:kualalumpur@womenwhocode.com?subject=Speaking at Women Who Code KL">speak</a>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="section">
+        <p class="title">Stay updated</p>
+        <div>
+            <p>Keep up with our events here:</p>
+            <div class="link-group">
+                <a class="link" href="https://wwcodekl.peatix.com">peatix</a>
+                <a class="link" href="https://facebook.com/wwcodekl">facebook</a>
+                <a class="link" href="https://www.meetup.com/wwcodekl">meetup</a>
+            </div>
+            <p>Other social media/groups:</p>
+            <div class="link-group">
+                <a class="link" href="https://twitter.com/WomenWhoCodeKL">twitter</a>
+                <a class="link" href="https://bit.ly/wwcodekl-slack">slack</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <p class="title">FAQ</p>
+        <div>
+            <ul class="faq">
+                <li>Do I have to pay a fee to come to WomenWhoCode events?</li>
+                <p>We do not charge fees for our events</p>
+                <li>I am a guy, can I attend?</li>
+                <p>Yes! Our tickets have a “General” type, that’s for you :)</p>
+            </ul>
+        </div>
+    </div>
+    
+</body>
+</html>
